@@ -1,0 +1,40 @@
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.BloodStock.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.BloodTransfer.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.Dashboard.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.Donor.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.Login.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.Mainform.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.Patient.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.Splash.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.ViewDonor.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood_Bank.ViewPatients.resources
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood Bank.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\bin\Debug\Blood Bank.exe.config
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\bin\Debug\Blood Bank.exe
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\bin\Debug\Blood Bank.pdb
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood Bank.exe
+C:\Users\Muhammad\Desktop\Project\Blood Bank - Copy\obj\Debug\Blood Bank.pdb
+C:\Users\Muhammad\Desktop\Full&Final\bin\Debug\Blood Bank.exe.config
+C:\Users\Muhammad\Desktop\Full&Final\bin\Debug\Blood Bank.exe
+C:\Users\Muhammad\Desktop\Full&Final\bin\Debug\Blood Bank.pdb
+C:\Users\Muhammad\Desktop\Full&Final\bin\Debug\Guna.UI2.dll
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood Bank.csproj.AssemblyReference.cache
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.BloodStock.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.BloodTransfer.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.Dashboard.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.Donor.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.Login.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.Mainform.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.Patient.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.Splash.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.ViewDonor.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood_Bank.ViewPatients.resources
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood Bank.csproj.Up2Date
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood Bank.exe
+C:\Users\Muhammad\Desktop\Full&Final\obj\Debug\Blood Bank.pdb
