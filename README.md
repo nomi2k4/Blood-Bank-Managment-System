@@ -1,6 +1,6 @@
 # Blood Bank Management System
 
-A modern Windows Forms desktop application for managing blood bank operations — donor records, patient management, blood inventory tracking, and blood transfers.
+A simple Windows Forms desktop application for managing blood bank operations — donor records, patient management, blood inventory tracking, and blood transfers.
 
 Built using **C# WinForms (.NET Framework 4.8)** and **SQL Server**.
 
